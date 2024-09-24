@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "titulo": "Noche Estrellada",
+        "imagen": "./img/vangogh/nocheestrellada.jpg",
+        "categoria": {
+            "nombre": "Van Gogh",
+            "id": "vangogh",
+            "descripcion": "Arte postimpresionista"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "2",
+        "titulo": "Amarillo Rojo y Azul",
+        "imagen": "./img/kandinsky/amarillorojoazul1.jpg",
+        "categoria": {
+            "nombre": "Kandinsky",
+            "id": "kandinsky",
+            "descripcion": "Cuadros Modernistas"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "3",
+        "titulo": "Retrato",
+        "imagen": "./img/vangogh/vangogh2.jpg",
+        "categoria": {
+            "nombre": "Van Gogh",
+            "id": "vangogh",
+            "descripcion": "Arte postimpresionista"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "4",
+        "titulo": "Montevideo 1",
+        "imagen": "./img/montevideo/montevideo1.jpg",
+        "categoria": {
+            "nombre": "Edificio",
+            "id": "abstracto",
+            "descripcion": "Foto Montevideo viejo"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "5",
+        "titulo": "Montevideo 2",
+        "imagen": "./img/montevideo/montevideo2.jpg",
+        "categoria": {
+            "nombre": "Montevideo2",
+            "id": "abstracto"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "6",
+        "titulo": "Montevideo 3",
+        "imagen": "./img/montevideo/montevideo3.jpg",
+        "categoria": {
+            "nombre": "Montevideo3",
+            "id": "abstracto"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "7",
+        "titulo": "Montevideo 4",
+        "imagen": "./img/montevideo/montevideo4.jpg",
+        "categoria": {
+            "nombre": "Montevideo4",
+            "id": "abstracto"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "8",
+        "titulo": "Montevideo 5",
+        "imagen": "./img/montevideo/montevideo5.jpg",
+        "categoria": {
+            "nombre": "Montevideo5",
+            "id": "abstracto"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "9",
+        "titulo": "Abstracto",
+        "imagen": "./img/conceptual/abstracto1.jpg",
+        "categoria": {
+            "nombre": "asd",
+            "id": "abstracto"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "10",
+        "titulo": "Sensacion",
+        "imagen": "./img/conceptual/abstracto2.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": "abstracto"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "11",
+        "titulo": "Abstracto",
+        "imagen": "./img/conceptual/abstracto3.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": "abstracto"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "12",
+        "titulo": "Arte",
+        "imagen": "./img/conceptual/abstracto4.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": "abstracto"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "13",
+        "titulo": "Sin titulo",
+        "imagen": "./img/kandinsky/kandinsky2.jpg",
+        "categoria": {
+            "nombre": "",
+            "id": "kandinsky"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "14",
+        "titulo": "Negro y violeta",
+        "imagen": "./img/kandinsky/kandinsky3.jpg",
+        "categoria": {
+            "nombre": "Kandinsky",
+            "id": "kandinsky"
+        },
+        "precio": 1400
+    }
+]
